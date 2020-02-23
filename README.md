@@ -8,9 +8,8 @@ This project aims to be a one stop searchable database that accesses all Calvary
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](http://www.python.org) - Programming Language Used
+
 
 ## Contributing
 
