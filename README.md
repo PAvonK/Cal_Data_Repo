@@ -1,4 +1,4 @@
-# Calvary Church Data Repostiry
+# Calvary Church Data Repository
 
 This project aims to be a one stop searchable database that accesses all Calvary Family of Churches content. 
 
