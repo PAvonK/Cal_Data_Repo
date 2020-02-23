@@ -1,6 +1,6 @@
-# Project Title
+# Calvary Church Data Repostiry
 
-One Paragraph of project description goes here
+This project aims to be a one stop searchable database that accesses all Calvary Family of Churches content. 
 
 ## Getting Started
 
